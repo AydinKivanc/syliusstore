@@ -2,7 +2,14 @@
 - npm install axios
 - npm i -s @reduxjs/toolkit redux react-redux
 - npm i -s react-router-dom
-
+- API
+  https://ecommerce-api.udemig.dev/api/v2/docs.html
+  https://ecommerce-api.udemig.dev/en_US/
+  https://ecommerce-api.udemig.dev/admin/login
+  user: sylius@example.com pass: sylius
+  user: test@gmail.com pass: 123123
+  Design: https://ecommerce-template.udemig.dev/mobistore.zip
+  admin@system.com 123123
 - SLIDER
   http://react-responsive-carousel.js.org/#demos
   https://github.com/leandrowd/react-responsive-carousel
