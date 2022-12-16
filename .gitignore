@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-/README.txt
+# detay
+.README.txt
 
 
 # testing
